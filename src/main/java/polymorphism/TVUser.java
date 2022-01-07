@@ -2,6 +2,7 @@ package polymorphism;
 
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.GenericXmlApplicationContext;
+import org.springframework.stereotype.Component;
 
 public class TVUser {
 	public static void main(String[] args) {
